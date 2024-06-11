@@ -1,0 +1,94 @@
+<div class="container">
+    <div class="row">
+      <div class="col-lg-12">
+        <div class="page-content">
+
+          <!-- ***** Banner Start ***** -->
+          <div class="row">
+            <div class="col-lg-12">
+              <div class="main-profile ">
+                <div class="row">
+                  <div class="col-lg-4">
+                    <img src="<?php echo base_url();?>assets/images/catheez/catheez1.jpg" alt="" style="border-radius: 23px;">
+                  </div>
+                  <div class="col-lg-4 align-self-center">
+                    <div class="main-info header-text">
+                      <span>Offline</span>
+                      <h4>Catherine Alicia</h4>
+                      <p>You Haven't Gone Live yet. Go Live By Touching The Button Below.</p>
+                      <div class="main-border-button">
+                        <a href="#">Asking For Rent</a>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-4 align-self-center">
+                    <ul>
+                      <li>Nick<span>Catheez</span></li>
+                      <li>Born<span>Surabaya xx xxxx 2002</span></li>
+                      <li>Hobby <span>Playing Games</span></li>
+                      <li>Rating <span>5</span></li>
+                      <li>Price Rent <span>Rp.500.000/Hour </span></li>
+                    </ul>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-lg-12">
+                    <div class="clips">
+                      <div class="row">
+                        <div class="col-lg-12">
+                          <div class="heading-section">
+                            <h4><em>Collection</em> Photos</h4>
+                          </div>
+                        </div>
+                        <div class="col-lg-3 col-sm-6">
+                          <div class="item">
+                            <div >
+                              <img src="<?php echo base_url();?>assets/images/catheez/catheez1.jpg" alt="" style="border-radius: 23px;">
+                              <a href="https://www.youtube.com/watch?v=r1b03uKWk_M" target="_blank"></a>
+                            </div>
+                            <div class="down-content">
+                            </div>
+                          </div>
+                        </div>
+                        <div class="col-lg-3 col-sm-6">
+                          <div class="item">
+                            <div >
+                              <img src="<?php echo base_url();?>assets/images/catheez/catheez2.jpg" alt="" style="border-radius: 23px;">
+                              <a href="https://www.youtube.com/watch?v=r1b03uKWk_M" target="_blank"></a>
+                            </div>
+                            <div class="down-content"> 
+                            </div>
+                          </div>
+                        </div>
+                        <div class="col-lg-3 col-sm-6">
+                          <div class="item">
+                            <div >
+                              <img src="<?php echo base_url();?>assets/images/catheez/catheez4.jpg" alt="" style="border-radius: 23px;">
+                              <a href="https://www.youtube.com/watch?v=r1b03uKWk_M" target="_blank"></a>
+                            </div>
+                            <div class="down-content">
+                            </div>
+                          </div>
+                        </div>
+                        <div class="col-lg-3 col-sm-6">
+                          <div class="item">
+                            <div >
+                              <img src="<?php echo base_url();?>assets/images/catheez/catheez5.jpg" alt="" style="border-radius: 23px;">
+                              <a href="https://www.youtube.com/watch?v=r1b03uKWk_M" target="_blank"></a>
+                            </div>
+                            <div class="down-content">
+                            </div>
+                          </div>
+                        </div>
+                        <div class="col-lg-12">
+                          <div class="main-button">
+                            <a href="#">Load More Clips</a>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
