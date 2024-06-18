@@ -5,7 +5,7 @@
             <div class="col-12">
                 <nav class="main-nav">
                     <!-- ***** Logo Start ***** -->
-                    <a href="index.html" class="logo">
+                    <a href="<?= site_url("pageuser") ?>" class="logo">
                         <img src="<?= base_url('assets/images/kanojoback.png'); ?>" alt="">
                     </a>
                     <!-- ***** Logo End ***** -->

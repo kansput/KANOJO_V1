@@ -27,7 +27,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
                   <h6>Welcome To Kanojo</h6>
                   <h4><em>Find</em> Your Dream Partner </h4>
                   <div class="main-button">
-                    <a href="browse.html">Find Now</a>
+                    <a href="<?= site_url("pageuser/usertalent") ?>">Find Now</a>
                   </div>
                 </div>
               </div>
@@ -177,7 +177,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
                 </div>
                 <div class="col-lg-12">
                   <div class="main-button">
-                    <a href="profile.html">Find Your Partner</a>
+                    <a href="<?= site_url("pageuser/usertalent") ?>">Find Your Partner</a>
                   </div>
                 </div>
               </div>
